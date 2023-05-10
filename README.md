@@ -7,7 +7,7 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F737&background=FFFFFF00&center=true&vCenter=true&width=435&lines=iOS+software+Engineer;Keep+calm+and+code+in+Swift+%F4%80%AB%8A" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F737&background=FFFFFF00&center=true&vCenter=true&width=435&lines=iOS+Software+Engineer;Keep+calm+and+code+in+Swift" alt="Typing SVG" /></a>
 </p> 
 
 - 👨‍💻 I'm constantly learning and exploring new technologies to improve my skills.
